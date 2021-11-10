@@ -736,7 +736,7 @@ body.lock {
   max-width: 1400px;
   min-height: 1000px;
   margin: 0 auto;
-  background: url("img/Layer_32.png");
+  background: url("Layer_32.png");
   background-size: cover;
 }
 .section-footer-inner {
