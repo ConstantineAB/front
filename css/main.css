@@ -469,7 +469,7 @@ body.lock {
 }
 
 .section-header {
-  background: url("/img/Layer_23.jpg") no-repeat 50% 50%;
+  background: url("img/Layer_23.jpg") no-repeat 50% 50%;
   background-size: cover;
   max-width: 1400px;
   max-height: 672px;
@@ -623,7 +623,7 @@ body.lock {
 }
 
 .section-gap-content {
-  background: url("/img/Layer_31.jpg");
+  background: url("img/Layer_31.jpg");
   background-size: cover;
   height: 326px;
   display: flex;
@@ -736,7 +736,7 @@ body.lock {
   max-width: 1400px;
   min-height: 1000px;
   margin: 0 auto;
-  background: url("/img/Layer_32.png");
+  background: url("img/Layer_32.png");
   background-size: cover;
 }
 .section-footer-inner {
